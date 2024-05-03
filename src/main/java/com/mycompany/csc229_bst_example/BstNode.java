@@ -6,7 +6,7 @@ package com.mycompany.csc229_bst_example;
 
 /**
  *
- * @author MoaathAlrajab
+ * @author Waleed Shahid
  */
 public class BstNode {
 
